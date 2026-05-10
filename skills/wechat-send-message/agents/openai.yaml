@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat Send Message"
+  short_description: "Safely send WeChat messages with UI confirmation."
+  default_prompt: "Use $wechat-send-message to search a WeChat contact, confirm the target, and send a short message."
